@@ -1,0 +1,5 @@
+resources:
+- web-app-configmap.yaml
+- web-app-service.yaml
+- web-app-route.yaml
+- web-app-deployment.yaml

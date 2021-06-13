@@ -1,0 +1,4 @@
+bases:
+- ../
+patchesStrategicMerge:
+- web-app-configmap.yaml
